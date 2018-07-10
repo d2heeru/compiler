@@ -1,0 +1,5 @@
+main()
+{
+int i=9, j=900,k=115;
+printf("%d,i+j+k);
+}
